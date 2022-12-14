@@ -71,10 +71,6 @@ namespace LineComparison
             obj1.EqualityMethod(length1.ToString(), length2.ToString());
             obj2.comparingLines(length1.ToString(), length2.ToString());
 
-
-
         }
-
-
     }
 }
